@@ -26,6 +26,6 @@
 
 ***
 
-## 👋**My personal profile on leetcode**👋:
+## 👋**My profile on leetcode**👋:
 
  > <a href="https://leetcode.com/k0sn1k4/">- click here</a>
